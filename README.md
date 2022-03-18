@@ -11,7 +11,7 @@ See the examples here:
 ![image](https://user-images.githubusercontent.com/83064592/158956397-e6687bbb-1d7b-41bb-8078-1d2868c4b9dd.png)
 
 
-## GET all the joke categories
+## GET all the joke categories - (https://sovtechapi.azurewebsites.net/chuck/categories)
 
 ``` https://localhost:44375/chuck/categories ```
 
@@ -22,7 +22,7 @@ See the examples here:
 
 
 
-## GET all the Star Wars people
+## GET all the Star Wars people (https://sovtechapi.azurewebsites.net/swapi/people)
 
 ``` https://localhost:44375/swapi/people ```
 
@@ -36,8 +36,7 @@ See the examples here:
 ```
 
 
-## GET search both the Chuck Norris and Star Wars API. The response
-contain metadata which indicates which API the result belongs to.
+## GET search both the Chuck Norris and Star Wars API. The response contain metadata which indicates which API the result belongs to. - (https://sovtechapi.azurewebsites.net/search?query=luke)
 
 ``` https://localhost:44375/search?query=luke ```
 
